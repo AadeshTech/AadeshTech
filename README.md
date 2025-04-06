@@ -13,12 +13,6 @@
 <a href="https://instagram.com/aadeshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadeshhh" height="30" width="40" /></a>
 </p>
 
-Okay, let's further decrease the width and height by another 10% from the current 48px, which will bring them to approximately 43px (48 * 0.9 = 43.2, we'll use 43 for simplicity). We'll also increase the margin-right again to create even more horizontal space.
-
-Here's the updated code:
-
-HTML
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="43" height="43" style="margin-right: 20px; padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>
@@ -46,6 +40,7 @@ HTML
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="43" height="43" style="margin-right: 20px; padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="43" height="43" style="margin-right: 20px; padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>
 </p>
+
 
 <table width="100%" align="center">
    <tr>
