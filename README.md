@@ -18,15 +18,17 @@
 
 <table>
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadeshtech&show_icons=true&locale=en&layout=compact" alt="aadeshtech" width="auto" height="auto"/>
     </td>
-    <td align="right">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=aadeshtech&show_icons=true&locale=en" alt="aadeshtech" width="auto" height="auto"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="left">
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshtech&" alt="aadeshtech" width="auto" height="auto"/>
     </td>
   </tr>
