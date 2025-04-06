@@ -27,13 +27,13 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.15.1/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.15.1/icons/laravel/laravel-plain.svg" alt="laravel" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/>
 </a> <br/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.15.1/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="43" height="43" style="padding: 5px; border-radius: 5px; background-color: #f0f0f0;"/> </a> <br/>
