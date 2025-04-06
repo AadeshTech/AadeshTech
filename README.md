@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadeshtech&label=Profile%20views&color=0e75b6&style=flat" alt="aadeshtech" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+<img align="right" alt="Coding" width="400" style="margin-top: 20px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 - 💬 Ask me about **MERN, MEAN, Nextjs, laravel etc**
 
